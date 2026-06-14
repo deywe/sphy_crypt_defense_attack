@@ -102,3 +102,24 @@ HARPIA QUANTUM DEEPTECH // BLACK SWAN RESEARCHER
 SECURE REGISTRY: INFRASTRUCTURE DEFENSE PIPELINE VALIDATED
 
 ```
+
+
+---
+
+### 🌌 SPHY-COGNITIVE_DEFENSIVE: Sistema de Defesa Gravito-Quântico (Serviço On-line)
+
+**Aviso de Infraestrutura:** Este é o oitavo módulo do ecossistema de pesquisa e desenvolvimento focado na Unificação entre a Gravidade e o Quântico. O serviço do Streamlit Cloud coloca as APIs em hibernação automaticamente após períodos de inatividade, mas você pode acordá-lo instantaneamente clicando no **botão azul** na tela.
+
+O que você está vendo é uma demonstração em tempo real do nosso emulador cognitivo de defesa contra ataques quânticos. A IA inicia o monitoramento com 120 qubits sofrendo perturbações constantes. Você pode utilizar as setas do teclado (**UP ARROW** e **DOWN ARROW**) para expandir ou reduzir o número de qubits diretamente na interface remota.
+
+Na tela, um filamento tridimensional sofre ataques de ressonância e restaura sua coerência de fase de forma autônoma por homeostase. O HUD exibe o cálculo do **Delta G ($\Delta g$)**, demonstrando numericamente como a gravidade de fundo é acionada como um atrator topológico para restaurar o equilíbrio do sistema.
+
+Este serviço demonstra como redes criptográficas baseadas em *Lattices* podem implementar camadas de segurança gravito-quântica. Aqui, a geometria não é um labirinto abstrato; ela é uma topologia física real que confirma a estabilidade e a coerência da rede.
+
+Acesse a multi-API da **Harpia Quantum**, um ecossistema projetado para convidá-lo a fazer parte da transição evolutiva rumo a uma civilização Tipo II na escala de Kardashev:
+🔗 [https://sphywow1977.streamlit.app/](https://sphywow1977.streamlit.app/)
+
+Repositório oficial no GitHub para documentação e download do emulador local:
+🔗 [https://github.com/deywe/sphy_crypt_defense_attack](https://github.com/deywe/sphy_crypt_defense_attack)
+
+---
